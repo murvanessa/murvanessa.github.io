@@ -9,11 +9,6 @@
 
 ## Introduction <a name="introduction"></a>
 **Easier than it sounds!** This six-layer rainbow cake looks like your normal everyday dessert, but after one slice everyone will see its awesomeness. I've never seen a dessert get so much camera attention! :heart_eyes:
-```diff
-+ Green.Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
-- Red. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
-Black. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
-```
 
 ![rainbowcake](https://user-images.githubusercontent.com/32261166/81910474-4d3e0a80-95cc-11ea-9dc8-623f21e7cebc.jpeg)
 ------
@@ -21,13 +16,14 @@ Black. Like all Byzantine agreement protocols, SCP makes no assumptions about th
 ## Ingredients <a name = "Ingredients"></a>
 this is the list of ingredients you need to have
 ### List of ingredients <a name="list"></a>
-* cooking spray
-* packages white pudding-type cake mix
+``` diff
++* cooking spray
++* packages white pudding-type cake mix
   * 3 (18.25 ounce)
-*  9 egg whites
-* 4 cups water
-* 1 cup applesauce
-* 2 (16 ounce) cans white frosting
++*  9 egg whites
+-* 4 cups water
+-* 1 cup applesauce
+-* 2 (16 ounce) cans white frosting
 * ***fluid***
     * *½ fluid ounce orange gel food * coloring, or as desired
     * ½ fluid ounce yellow gel food coloring, or as desired 
@@ -35,6 +31,8 @@ this is the list of ingredients you need to have
     * ½ fluid ounce blue gel food coloring, or as desired
     * ½ fluid ounce red gel food coloring, or as desired
     * ½ fluid ounce purple gel food coloring, or as desired
+````
+
 
 ## Preparation <a name="prepa"></a>
 |    Step             | to do       |
