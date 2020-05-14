@@ -36,7 +36,7 @@ this is the list of ingredients you need to have
 
 ## Preparation <a name="prepa"></a>
 |    Step             | to do       |
-----------------      | -------------
+|----------------     | -------------|
 |  **step 1**         | <span style="color: red">Preheat the oven to 350 degrees F (175 degrees C). Spray two 9-inch cake pans with cooking spray.|
 | **step 2**          | <span style="color:orange">Combine cake mix, egg whites, water, and applesauce in a large bowl using an electric mixer. Divide batter evenly into 6 bowls. Mix a different food coloring gel into each bowl. Pour the red batter and orange batter separately into the prepared cake pans.</span>|
 | **step 3**         | <span style="color: yellow">Bake in the preheated oven until a toothpick inserted into the center of each cake comes out clean, 25 to 30 minutes.</span>|
