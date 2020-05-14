@@ -16,7 +16,7 @@
 ## Ingredients <a name = "Ingredients"></a>
 this is the list of ingredients you need to have
 ### List of ingredients <a name="list"></a>
-``` diff
+
 * cooking spray
 * packages white pudding-type cake mix
   * 3 (18.25 ounce)
@@ -31,17 +31,27 @@ this is the list of ingredients you need to have
     * ½ fluid ounce blue gel food coloring, or as desired
     * ½ fluid ounce red gel food coloring, or as desired
     * ½ fluid ounce purple gel food coloring, or as desired
-````
 
 
 ## Preparation <a name="prepa"></a>
-|    Step             | to do       |
-|----------------     | -------------|
-|  **step 1**         | Preheat the oven to 350 degrees F (175 degrees C). Spray two 9-inch cake pans with cooking spray.|
-| **step 2**          | Combine cake mix, egg whites, water, and applesauce in a large bowl using an electric mixer. Divide batter evenly into 6 bowls. Mix a different food coloring gel into each bowl. Pour the red batter and orange batter separately into the prepared cake pans.|
-| **step 3**         | Bake in the preheated oven until a toothpick inserted into the center of each cake comes out clean, 25 to 30 minutes.|
-| **step 4**         | Remove from the oven and let rest on a cooling rack in the pans for 15 minutes.<br> Flip quickly onto the rack and remove cakes from the pans. Continue the baking and cooling process with remaining batter until all layers are cooled.|
-| **step 5**            | Shave off the tops of the cakes carefully using a large knife so they will be flat. Place the red layer down, frost the top lightly; continue with orange, yellow, green, blue, and purple.|
-| **step 6**            | Frost the top and outside of the cake. Cut through using a big, sharp knife and serve.|
+> **step 1**    Preheat the oven to 350 degrees F (175 degrees C). Spray two 9-inch cake pans with cooking spray.<br>
 
-> 660 calories; 18.3 g total fat; 0 mg cholesterol; 781 mg sodium. 118.4 g carbohydrates; 5.9 g protein; Full Nutrition
+> **step 2**   Combine cake mix, egg whites, water, and applesauce in a large bowl using an electric mixer. Divide batter evenly into 6 bowls. Mix a different food coloring gel into each bowl. Pour the red batter and orange batter separately into the prepared cake pans.<br>
+
+> **step 3**  Bake in the preheated oven until a toothpick inserted into the center of each cake comes out clean, 25 to 30 minutes.<br>
+
+>**step 4**  Remove from the oven and let rest on a cooling rack in the pans for 15 minutes. Flip quickly onto the rack and remove cakes from the pans. Continue the baking and cooling process with remaining batter until all layers are cooled.<br>
+
+> **step 5**  Shave off the tops of the cakes carefully using a large knife so they will be flat. Place the red layer down, frost the top lightly; continue with orange, yellow, green, blue, and purple.<br>
+
+> **step 6**  Frost the top and outside of the cake. Cut through using a big, sharp knife and serve.<br>
+
+| for 16 persons | 
+|----------------|
+| 660 calories   |
+|18.3 g total fat |
+| 781 mg sodium|
+|  0 mg cholesterol|
+| 118.4 g carbohydrates |
+| 5.9 g protein |
+|Full Nutrition |
